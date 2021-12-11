@@ -24,7 +24,7 @@ https://public.tableau.com/app/profile/agustin.portilla/viz/Paris_Test_Hotels/Da
 
 **Preview**:
 
-![image](https://user-images.githubusercontent.com/89322259/145688951-c34c15cb-6790-41cd-bb51-c810766f72f3.png)
+![image](https://user-images.githubusercontent.com/89322259/145689523-738eef11-0ce3-4367-9aae-9ea797aea4b1.png)
 
 
 **Other comments**: 
